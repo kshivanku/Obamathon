@@ -1,0 +1,3756 @@
+{
+  "statuses": [
+    {
+      "created_at": "Fri Jan 06 17:31:10 +0000 2017",
+      "id": 817423275013898200,
+      "id_str": "817423275013898241",
+      "text": "@BarackObama 🤔thoughts ? https://t.co/dVOB4vmbYu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dVOB4vmbYu",
+            "expanded_url": "https://twitter.com/michaeljohns/status/817415834163417088",
+            "display_url": "twitter.com/michaeljohns/s…",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 813286,
+      "in_reply_to_user_id_str": "813286",
+      "in_reply_to_screen_name": "BarackObama",
+      "user": {
+        "id": 306924364,
+        "id_str": "306924364",
+        "name": "Claudette",
+        "screen_name": "barkmartin",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3726,
+        "friends_count": 3055,
+        "listed_count": 141,
+        "created_at": "Sat May 28 17:51:28 +0000 2011",
+        "favourites_count": 136832,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 90989,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667110689400610816/QLSHEH9K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667110689400610816/QLSHEH9K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/306924364/1462510437",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 817415834163417100,
+      "quoted_status_id_str": "817415834163417088",
+      "quoted_status": {
+        "created_at": "Fri Jan 06 17:01:36 +0000 2017",
+        "id": 817415834163417100,
+        "id_str": "817415834163417088",
+        "text": "If walls don't work, why is #Obama building one around his new #DC house?\n\nhttps://t.co/Y2sEeQuH6B\n\n#TeaParty #BuildTheWall #TrumpTrain",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Obama",
+              "indices": [
+                28,
+                34
+              ]
+            },
+            {
+              "text": "DC",
+              "indices": [
+                63,
+                66
+              ]
+            },
+            {
+              "text": "TeaParty",
+              "indices": [
+                100,
+                109
+              ]
+            },
+            {
+              "text": "BuildTheWall",
+              "indices": [
+                110,
+                123
+              ]
+            },
+            {
+              "text": "TrumpTrain",
+              "indices": [
+                124,
+                135
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Y2sEeQuH6B",
+              "expanded_url": "http://www.tmz.com/2017/01/06/president-obama-dc-house-brick-wall/",
+              "display_url": "tmz.com/2017/01/06/pre…",
+              "indices": [
+                75,
+                98
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14828860,
+          "id_str": "14828860",
+          "name": "Michael Johns",
+          "screen_name": "michaeljohns",
+          "location": "New Jersey, USA",
+          "description": "National Tea Party movement co-founder and leader. Former @WhiteHouse speechwriter and @Heritage policy analyst. @UnivMiami grad. Phone/text: (609) 670-8142.",
+          "url": "https://t.co/98A78NJ9Fb",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/98A78NJ9Fb",
+                  "expanded_url": "https://www.facebook.com/MichaelJohnsTeaParty",
+                  "display_url": "facebook.com/MichaelJohnsTe…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 129175,
+          "friends_count": 84911,
+          "listed_count": 2001,
+          "created_at": "Mon May 19 05:06:21 +0000 2008",
+          "favourites_count": 5264,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 19201,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "9AE4E8",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627924002/iadbs7pldv96gyd2ur9k.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627924002/iadbs7pldv96gyd2ur9k.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/730735247269216256/aL9qEO8t_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/730735247269216256/aL9qEO8t_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/14828860/1394755616",
+          "profile_link_color": "940025",
+          "profile_sidebar_border_color": "BDDCAD",
+          "profile_sidebar_fill_color": "ADADAD",
+          "profile_text_color": "080808",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:31:08 +0000 2017",
+      "id": 817423266797129700,
+      "id_str": "817423266797129729",
+      "text": "@BarackObama yeah, #America doesnt need walls, unless its around your new house, right asshat? What a fraud you are in statement and service",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "America",
+            "indices": [
+              19,
+              27
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 813286,
+      "in_reply_to_user_id_str": "813286",
+      "in_reply_to_screen_name": "BarackObama",
+      "user": {
+        "id": 2959996754,
+        "id_str": "2959996754",
+        "name": "Hacker NateStorm",
+        "screen_name": "UnRealNateStorm",
+        "location": "Los Angeles, Somethin Somethin",
+        "description": "#TV #StaffWriter #ComedyColumbidae  #HollywoodHomeless \n#ConservativeCommonsensist, #NetworkScriptRX\n#NoSharia #VoteTrump #USA",
+        "url": "http://t.co/TxyYVo20g6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TxyYVo20g6",
+                "expanded_url": "http://www.wga.org",
+                "display_url": "wga.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 744,
+        "friends_count": 430,
+        "listed_count": 48,
+        "created_at": "Mon Jan 05 19:17:15 +0000 2015",
+        "favourites_count": 4793,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25351,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/650767265701326848/5_nP5zjk.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/650767265701326848/5_nP5zjk.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/807368879081197576/wN0aBLdy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/807368879081197576/wN0aBLdy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2959996754/1481330990",
+        "profile_link_color": "8C001A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:31:04 +0000 2017",
+      "id": 817423248988192800,
+      "id_str": "817423248988192774",
+      "text": "RT @eli_umeh: @andybes50484929 @nytimes of course @BarackObama made that possible. He found #Isis supported #BokoHaram cos he made their ch…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Isis",
+            "indices": [
+              92,
+              97
+            ]
+          },
+          {
+            "text": "BokoHaram",
+            "indices": [
+              108,
+              118
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "eli_umeh",
+            "name": "Eli Nnamdi Umeh",
+            "id": 809421362171379700,
+            "id_str": "809421362171379713",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "andybes50484929",
+            "name": "andybest",
+            "id": 1305019513,
+            "id_str": "1305019513",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "nytimes",
+            "name": "The New York Times",
+            "id": 807095,
+            "id_str": "807095",
+            "indices": [
+              31,
+              39
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              50,
+              62
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955038435,
+        "id_str": "3955038435",
+        "name": "Samuel Nnaji",
+        "screen_name": "SamuelNnaji9",
+        "location": "Port - Harcourt ",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 819,
+        "friends_count": 746,
+        "listed_count": 207,
+        "created_at": "Wed Oct 14 10:42:49 +0000 2015",
+        "favourites_count": 39,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 128498,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/809752006734782464/YKf78nX2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/809752006734782464/YKf78nX2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955038435/1481894988",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jan 06 00:33:36 +0000 2017",
+        "id": 817167196719824900,
+        "id_str": "817167196719824898",
+        "text": "@andybes50484929 @nytimes of course @BarackObama made that possible. He found #Isis supported #BokoHaram cos he made their chief sponsor A",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Isis",
+              "indices": [
+                78,
+                83
+              ]
+            },
+            {
+              "text": "BokoHaram",
+              "indices": [
+                94,
+                104
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "andybes50484929",
+              "name": "andybest",
+              "id": 1305019513,
+              "id_str": "1305019513",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "nytimes",
+              "name": "The New York Times",
+              "id": 807095,
+              "id_str": "807095",
+              "indices": [
+                17,
+                25
+              ]
+            },
+            {
+              "screen_name": "BarackObama",
+              "name": "Barack Obama",
+              "id": 813286,
+              "id_str": "813286",
+              "indices": [
+                36,
+                48
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 817138151986724900,
+        "in_reply_to_status_id_str": "817138151986724864",
+        "in_reply_to_user_id": 1305019513,
+        "in_reply_to_user_id_str": "1305019513",
+        "in_reply_to_screen_name": "andybes50484929",
+        "user": {
+          "id": 809421362171379700,
+          "id_str": "809421362171379713",
+          "name": "Eli Nnamdi Umeh",
+          "screen_name": "eli_umeh",
+          "location": "Tottenham, London",
+          "description": "Am here to Restore Biafra.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 40,
+          "friends_count": 76,
+          "listed_count": 9,
+          "created_at": "Thu Dec 15 15:34:25 +0000 2016",
+          "favourites_count": 90,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3774,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/809426458963755008/JBXx_fzL_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/809426458963755008/JBXx_fzL_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/809421362171379713/1481817317",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:31:03 +0000 2017",
+      "id": 817423247318876200,
+      "id_str": "817423247318876165",
+      "text": "RT @JDC_Cheo: Mientras @BarackObama indultada narcotraficantes hoy un viejo en su cumpleaños anhela mirar el mar. #freeOscarLopez https://t…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "freeOscarLopez",
+            "indices": [
+              114,
+              129
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JDC_Cheo",
+            "name": "Cheo en Resistencia®",
+            "id": 1115546348,
+            "id_str": "1115546348",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              23,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 388899022,
+        "id_str": "388899022",
+        "name": "Jess",
+        "screen_name": "jess_mcardona",
+        "location": "Puerto Rico",
+        "description": "¡Boricua! Periodista (inactiva).Amo el Arte, la cultura y todo lo que nos hace puertorriqueños. ¡Bienvenidos todos!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 287,
+        "friends_count": 436,
+        "listed_count": 7,
+        "created_at": "Tue Oct 11 14:39:16 +0000 2011",
+        "favourites_count": 2142,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3304,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000088245933/a7b14520f2946848ffed6d76006fc81c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000088245933/a7b14520f2946848ffed6d76006fc81c.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/814055374307426304/2mC-Vnm-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/814055374307426304/2mC-Vnm-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/388899022/1470535453",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jan 06 14:13:34 +0000 2017",
+        "id": 817373549040169000,
+        "id_str": "817373549040168960",
+        "text": "Mientras @BarackObama indultada narcotraficantes hoy un viejo en su cumpleaños anhela mirar el mar. #freeOscarLopez https://t.co/TMOXFaOOG8",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "freeOscarLopez",
+              "indices": [
+                100,
+                115
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BarackObama",
+              "name": "Barack Obama",
+              "id": 813286,
+              "id_str": "813286",
+              "indices": [
+                9,
+                21
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 817373505067110400,
+              "id_str": "817373505067110401",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/C1fk30pXUAEHEku.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C1fk30pXUAEHEku.jpg",
+              "url": "https://t.co/TMOXFaOOG8",
+              "display_url": "pic.twitter.com/TMOXFaOOG8",
+              "expanded_url": "https://twitter.com/JDC_Cheo/status/817373549040168960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 528,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 931,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1589,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 817373505067110400,
+              "id_str": "817373505067110401",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/C1fk30pXUAEHEku.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C1fk30pXUAEHEku.jpg",
+              "url": "https://t.co/TMOXFaOOG8",
+              "display_url": "pic.twitter.com/TMOXFaOOG8",
+              "expanded_url": "https://twitter.com/JDC_Cheo/status/817373549040168960/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 528,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 931,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1589,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "es",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1115546348,
+          "id_str": "1115546348",
+          "name": "Cheo en Resistencia®",
+          "screen_name": "JDC_Cheo",
+          "location": "Caguas, Puerto Rico",
+          "description": "El mismo que te decía las verdades aunque fueras rojo, azul o realengo. ¡Jodón, creyente, buscapleitos y cizañero! NC-17. #CeroJunta Buscando la felicidad.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 504,
+          "friends_count": 704,
+          "listed_count": 21,
+          "created_at": "Wed Jan 23 23:40:21 +0000 2013",
+          "favourites_count": 1284,
+          "utc_offset": -14400,
+          "time_zone": "Atlantic Time (Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 26379,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/796151908985667584/wmXOGVVx_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/796151908985667584/wmXOGVVx_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1115546348/1477659634",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 16,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:59 +0000 2017",
+      "id": 817423230449438700,
+      "id_str": "817423230449438724",
+      "text": "RT @NEJM: Just published: article by @BarackObama: Repealing the ACA without a Replacement — The Risks to American Health Care https://t.co…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NEJM",
+            "name": "NEJM",
+            "id": 25950355,
+            "id_str": "25950355",
+            "indices": [
+              3,
+              8
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              37,
+              49
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3050797766,
+        "id_str": "3050797766",
+        "name": "Mohamad A Hussain MD",
+        "screen_name": "ma_hussainMD",
+        "location": "Toronto, Ontario",
+        "description": "Vascular Surgery Resident @UofTVascular. Epidemiologist in Training @UofTIMS. Tweets about #vascular disease and healthcare.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 314,
+        "friends_count": 404,
+        "listed_count": 19,
+        "created_at": "Sat Feb 28 19:00:30 +0000 2015",
+        "favourites_count": 378,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 598,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651051413401788416/-4upwddZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651051413401788416/-4upwddZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3050797766/1473357126",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jan 06 11:10:13 +0000 2017",
+        "id": 817327405035561000,
+        "id_str": "817327405035560960",
+        "text": "Just published: article by @BarackObama: Repealing the ACA without a Replacement — The Risks to American Health Car… https://t.co/2DCbQGqSzk",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BarackObama",
+              "name": "Barack Obama",
+              "id": 813286,
+              "id_str": "813286",
+              "indices": [
+                27,
+                39
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2DCbQGqSzk",
+              "expanded_url": "https://twitter.com/i/web/status/817327405035560960",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 25950355,
+          "id_str": "25950355",
+          "name": "NEJM",
+          "screen_name": "NEJM",
+          "location": "Boston, MA",
+          "description": "The New England Journal of Medicine (http://t.co/YKINVyRNEl) is the world’s leading medical journal and website.",
+          "url": "http://t.co/MskhpINH4c",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/MskhpINH4c",
+                  "expanded_url": "http://NEJM.org",
+                  "display_url": "NEJM.org",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http://t.co/YKINVyRNEl",
+                  "expanded_url": "http://NEJM.org",
+                  "display_url": "NEJM.org",
+                  "indices": [
+                    37,
+                    59
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 379399,
+          "friends_count": 325,
+          "listed_count": 7178,
+          "created_at": "Mon Mar 23 04:10:07 +0000 2009",
+          "favourites_count": 116,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 10762,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F7F7F7",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/118864868/nejmTwitterFinal.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/118864868/nejmTwitterFinal.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2680558223/105ad011ba6b50b87dbc79731b8dd843_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2680558223/105ad011ba6b50b87dbc79731b8dd843_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/25950355/1402084418",
+          "profile_link_color": "006992",
+          "profile_sidebar_border_color": "CCCCCC",
+          "profile_sidebar_fill_color": "E1E1E1",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 299,
+        "favorite_count": 175,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 299,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:50 +0000 2017",
+      "id": 817423191165509600,
+      "id_str": "817423191165509632",
+      "text": "@JudgeJeanine @realDonaldTrump @BarackObama @foxandfriends Done Done Done. Tare down that wall Mr Obama..",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JudgeJeanine",
+            "name": "Jeanine Pirro",
+            "id": 29458079,
+            "id_str": "29458079",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "realDonaldTrump",
+            "name": "Donald J. Trump",
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              31,
+              43
+            ]
+          },
+          {
+            "screen_name": "foxandfriends",
+            "name": "FOX & friends",
+            "id": 15513604,
+            "id_str": "15513604",
+            "indices": [
+              44,
+              58
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 817364681488732200,
+      "in_reply_to_status_id_str": "817364681488732160",
+      "in_reply_to_user_id": 29458079,
+      "in_reply_to_user_id_str": "29458079",
+      "in_reply_to_screen_name": "JudgeJeanine",
+      "user": {
+        "id": 48004231,
+        "id_str": "48004231",
+        "name": "chip markle",
+        "screen_name": "chipmar50",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 21,
+        "friends_count": 76,
+        "listed_count": 1,
+        "created_at": "Wed Jun 17 15:52:05 +0000 2009",
+        "favourites_count": 308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 912,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:47 +0000 2017",
+      "id": 817423179551506400,
+      "id_str": "817423179551506432",
+      "text": "Tears are as much about nostalgic love for a job well done as they are abt the next holder of the title. Be well… https://t.co/O6qY7Cafpm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/O6qY7Cafpm",
+            "expanded_url": "https://twitter.com/i/web/status/817423179551506432",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 480270377,
+        "id_str": "480270377",
+        "name": "Michael ORWA IV.",
+        "screen_name": "Sangodala",
+        "location": "native of Kenya ",
+        "description": "neoPanAfricanist. naimah's dad. Governance, African & International Affairs | pseudo-revolutionary. MasenoSchool, @KenyattaUni & @MaxwellSU alum rt≠endorsement",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2196,
+        "friends_count": 688,
+        "listed_count": 51,
+        "created_at": "Wed Feb 01 09:31:26 +0000 2012",
+        "favourites_count": 535,
+        "utc_offset": 10800,
+        "time_zone": "Nairobi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23082,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1801602793/POWER_fist_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1801602793/POWER_fist_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/480270377/1479215298",
+        "profile_link_color": "D02B54",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 817420618274484200,
+      "quoted_status_id_str": "817420618274484224",
+      "quoted_status": {
+        "created_at": "Fri Jan 06 17:20:36 +0000 2017",
+        "id": 817420618274484200,
+        "id_str": "817420618274484224",
+        "text": "\"Being your First Lady has been the greatest honour of my life\" - @MichelleObama in tears as she ends final speech… https://t.co/cJQKd3BZrQ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MichelleObama",
+              "name": "Michelle Obama",
+              "id": 409486555,
+              "id_str": "409486555",
+              "indices": [
+                66,
+                80
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/cJQKd3BZrQ",
+              "expanded_url": "https://twitter.com/i/web/status/817420618274484224",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 5402612,
+          "id_str": "5402612",
+          "name": "BBC Breaking News",
+          "screen_name": "BBCBreaking",
+          "location": "London, UK",
+          "description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.",
+          "url": "http://t.co/vBzl7LOaso",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/vBzl7LOaso",
+                  "expanded_url": "http://www.bbc.co.uk/news",
+                  "display_url": "bbc.co.uk/news",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 27894056,
+          "friends_count": 3,
+          "listed_count": 124378,
+          "created_at": "Sun Apr 22 14:42:37 +0000 2007",
+          "favourites_count": 0,
+          "utc_offset": 0,
+          "time_zone": "London",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 30829,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459283928017149952/IMgcIyBE.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459283928017149952/IMgcIyBE.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/460740982498013184/wIPwMwru_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/460740982498013184/wIPwMwru_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/5402612/1398336837",
+          "profile_link_color": "1F527B",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "FFFFFF",
+          "profile_text_color": "5A5A5A",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 845,
+        "favorite_count": 1724,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:45 +0000 2017",
+      "id": 817423171691446300,
+      "id_str": "817423171691446275",
+      "text": "@POTUS #LeonardPeltier GRANT HIM CLEMENCY #FreeLeonardPeltier @BarackObama https://t.co/k63xI9ojHT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "LeonardPeltier",
+            "indices": [
+              7,
+              22
+            ]
+          },
+          {
+            "text": "FreeLeonardPeltier",
+            "indices": [
+              42,
+              61
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "POTUS",
+            "name": "President Obama",
+            "id": 1536791610,
+            "id_str": "1536791610",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              62,
+              74
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/k63xI9ojHT",
+            "expanded_url": "https://twitter.com/Chief_Tatanka/status/817288128729845760",
+            "display_url": "twitter.com/Chief_Tatanka/…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 1536791610,
+      "in_reply_to_user_id_str": "1536791610",
+      "in_reply_to_screen_name": "POTUS",
+      "user": {
+        "id": 2750105810,
+        "id_str": "2750105810",
+        "name": "WomenForSurvival",
+        "screen_name": "WMN4SRVL",
+        "location": "WORLD",
+        "description": "Best in feminist, pro-queer, anti-nuclear, anti-racist, anti-capitalist, and environmental news and activism from around the world & the web. Intersectionality!",
+        "url": "https://t.co/hicaSg7X9j",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hicaSg7X9j",
+                "expanded_url": "https://paper.li/WMN4SRVL/1408584540#",
+                "display_url": "paper.li/WMN4SRVL/14085…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6250,
+        "friends_count": 6077,
+        "listed_count": 551,
+        "created_at": "Wed Aug 20 19:28:28 +0000 2014",
+        "favourites_count": 13946,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 112718,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765751828235419648/AQbW4K9j_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/765751828235419648/AQbW4K9j_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2750105810/1409413570",
+        "profile_link_color": "00B30C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 817288128729845800,
+      "quoted_status_id_str": "817288128729845760",
+      "quoted_status": {
+        "created_at": "Fri Jan 06 08:34:09 +0000 2017",
+        "id": 817288128729845800,
+        "id_str": "817288128729845760",
+        "text": "Trying to correct history. https://t.co/RyYIvlCqCf",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 817286886549049300,
+              "id_str": "817286886549049344",
+              "indices": [
+                27,
+                50
+              ],
+              "media_url": "http://pbs.twimg.com/media/C1eWF9hXUAA1P4S.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C1eWF9hXUAA1P4S.jpg",
+              "url": "https://t.co/RyYIvlCqCf",
+              "display_url": "pic.twitter.com/RyYIvlCqCf",
+              "expanded_url": "https://twitter.com/Chief_Tatanka/status/817288128729845760/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 564,
+                  "h": 673,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 564,
+                  "h": 673,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 564,
+                  "h": 673,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 817286886549049300,
+              "id_str": "817286886549049344",
+              "indices": [
+                27,
+                50
+              ],
+              "media_url": "http://pbs.twimg.com/media/C1eWF9hXUAA1P4S.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C1eWF9hXUAA1P4S.jpg",
+              "url": "https://t.co/RyYIvlCqCf",
+              "display_url": "pic.twitter.com/RyYIvlCqCf",
+              "expanded_url": "https://twitter.com/Chief_Tatanka/status/817288128729845760/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 564,
+                  "h": 673,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 564,
+                  "h": 673,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 564,
+                  "h": 673,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 488846355,
+          "id_str": "488846355",
+          "name": "Tatanka ⊕",
+          "screen_name": "Chief_Tatanka",
+          "location": "Earth",
+          "description": "When the last tree has been cut down, the last fish caught, the last river poisoned, only then will we realize that one cannot eat money.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 33252,
+          "friends_count": 33150,
+          "listed_count": 300,
+          "created_at": "Fri Feb 10 22:24:15 +0000 2012",
+          "favourites_count": 29108,
+          "utc_offset": 3600,
+          "time_zone": "Amsterdam",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 58851,
+          "lang": "it",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "40E0D0",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/792271921/3e2afc33d4a9e05b7bcadc427d00873d.gif",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/792271921/3e2afc33d4a9e05b7bcadc427d00873d.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/751120673905541120/hCo-ox6r_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/751120673905541120/hCo-ox6r_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/488846355/1431610164",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "38BECC",
+          "profile_text_color": "07EF77",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 133,
+        "favorite_count": 137,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:43 +0000 2017",
+      "id": 817423160723312600,
+      "id_str": "817423160723312640",
+      "text": "@gundamman \"They beleived Mexico would pay for a wall! @SpeakerRyan @realDonaldTrump @tedcruz @Twitter @BarackObama @CNN @FoxNews",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gundamman",
+            "name": "Sebastian @SF",
+            "id": 17596468,
+            "id_str": "17596468",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "SpeakerRyan",
+            "name": "Paul Ryan",
+            "id": 18916432,
+            "id_str": "18916432",
+            "indices": [
+              55,
+              67
+            ]
+          },
+          {
+            "screen_name": "realDonaldTrump",
+            "name": "Donald J. Trump",
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              68,
+              84
+            ]
+          },
+          {
+            "screen_name": "tedcruz",
+            "name": "Ted Cruz",
+            "id": 23022687,
+            "id_str": "23022687",
+            "indices": [
+              85,
+              93
+            ]
+          },
+          {
+            "screen_name": "Twitter",
+            "name": "Twitter",
+            "id": 783214,
+            "id_str": "783214",
+            "indices": [
+              94,
+              102
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              103,
+              115
+            ]
+          },
+          {
+            "screen_name": "CNN",
+            "name": "CNN",
+            "id": 759251,
+            "id_str": "759251",
+            "indices": [
+              116,
+              120
+            ]
+          },
+          {
+            "screen_name": "FoxNews",
+            "name": "Fox News",
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices": [
+              121,
+              129
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 817140206868410400,
+      "in_reply_to_status_id_str": "817140206868410368",
+      "in_reply_to_user_id": 17596468,
+      "in_reply_to_user_id_str": "17596468",
+      "in_reply_to_screen_name": "gundamman",
+      "user": {
+        "id": 2938890365,
+        "id_str": "2938890365",
+        "name": "Ned Stark",
+        "screen_name": "manofhonour1990",
+        "location": "",
+        "description": "Gop or Democrat it doesn't matter. Conflicts of inerest, Cabinet from hell arrogant incompetence \nRussian ties USA MUST #Holdhimacountable #ImpeachTrump",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 68,
+        "friends_count": 309,
+        "listed_count": 1,
+        "created_at": "Tue Dec 23 23:05:03 +0000 2014",
+        "favourites_count": 852,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2350,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/547966873497649152/PzvvPaZw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/547966873497649152/PzvvPaZw_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:43 +0000 2017",
+      "id": 817423160597303300,
+      "id_str": "817423160597303296",
+      "text": "RT @NancySinatra: A record 75 straight months of job growth under Obama https://t.co/9h9yOrxzMM Thank you, Mr. President. @BarackObama",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NancySinatra",
+            "name": "Nancy Sinatra",
+            "id": 50735431,
+            "id_str": "50735431",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              122,
+              134
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9h9yOrxzMM",
+            "expanded_url": "http://tinyurl.com/hcnlvs3",
+            "display_url": "tinyurl.com/hcnlvs3",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16796813,
+        "id_str": "16796813",
+        "name": "Livvy",
+        "screen_name": "Liv055",
+        "location": "",
+        "description": "progressive politics, history & the Seattle Mariners - all keep me hoping for better days against all odds.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 826,
+        "friends_count": 1572,
+        "listed_count": 21,
+        "created_at": "Wed Oct 15 23:31:03 +0000 2008",
+        "favourites_count": 1591,
+        "utc_offset": -25200,
+        "time_zone": "Arizona",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2709,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2459231891/ckjjh4tnk0zbybrzxlnx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2459231891/ckjjh4tnk0zbybrzxlnx_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jan 06 15:44:21 +0000 2017",
+        "id": 817396392096198700,
+        "id_str": "817396392096198657",
+        "text": "A record 75 straight months of job growth under Obama https://t.co/9h9yOrxzMM Thank you, Mr. President. @BarackObama",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BarackObama",
+              "name": "Barack Obama",
+              "id": 813286,
+              "id_str": "813286",
+              "indices": [
+                104,
+                116
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9h9yOrxzMM",
+              "expanded_url": "http://tinyurl.com/hcnlvs3",
+              "display_url": "tinyurl.com/hcnlvs3",
+              "indices": [
+                54,
+                77
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 50735431,
+          "id_str": "50735431",
+          "name": "Nancy Sinatra",
+          "screen_name": "NancySinatra",
+          "location": "Los Angeles",
+          "description": "Mom, Grandma, Singer, DJ, Actor, Author. NRDC Activist. ACLU, SAG, AFTRA, AGVA #unionmember.  Latest Release: Shifting Gears.",
+          "url": "http://t.co/JmkeFjHSIK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JmkeFjHSIK",
+                  "expanded_url": "http://www.nancysinatra.com",
+                  "display_url": "nancysinatra.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 118775,
+          "friends_count": 106394,
+          "listed_count": 3309,
+          "created_at": "Thu Jun 25 19:06:10 +0000 2009",
+          "favourites_count": 14,
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 13935,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "BFAB5B",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/41558169/cherry.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/41558169/cherry.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/445763847/cherry_smiles_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/445763847/cherry_smiles_normal.jpg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "BFAB5B",
+          "profile_text_color": "0E0957",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 130,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 50,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:42 +0000 2017",
+      "id": 817423159842533400,
+      "id_str": "817423159842533377",
+      "text": "RT @BarackObama: Let's keep working to keep our economy on a better, stronger course. https://t.co/bV2BVjyj7a",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 794662466848456700,
+            "id_str": "794662466848456704",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+            "url": "https://t.co/bV2BVjyj7a",
+            "display_url": "pic.twitter.com/bV2BVjyj7a",
+            "expanded_url": "https://twitter.com/BarackObama/status/794664579834015745/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1000,
+                "h": 560,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 381,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1000,
+                "h": 560,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 794664579834015700,
+            "source_status_id_str": "794664579834015745",
+            "source_user_id": 813286,
+            "source_user_id_str": "813286"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 794662466848456700,
+            "id_str": "794662466848456704",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+            "url": "https://t.co/bV2BVjyj7a",
+            "display_url": "pic.twitter.com/bV2BVjyj7a",
+            "expanded_url": "https://twitter.com/BarackObama/status/794664579834015745/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1000,
+                "h": 560,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 381,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1000,
+                "h": 560,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 794664579834015700,
+            "source_status_id_str": "794664579834015745",
+            "source_user_id": 813286,
+            "source_user_id_str": "813286"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 605489176,
+        "id_str": "605489176",
+        "name": "Mark W. Doran",
+        "screen_name": "MarkWDoran",
+        "location": "Austin, Texas",
+        "description": "Mark W. Doran, husband, father, and brother... the list goes on. If you own investment real estate or want to invest in such, call me now!",
+        "url": "https://t.co/nIq3x4E7Uy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/nIq3x4E7Uy",
+                "expanded_url": "http://M360Realty.com",
+                "display_url": "M360Realty.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 185,
+        "friends_count": 53,
+        "listed_count": 30,
+        "created_at": "Mon Jun 11 15:00:03 +0000 2012",
+        "favourites_count": 390,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1840,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/576472361/jflt4aazo8gpwzlor97p.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/576472361/jflt4aazo8gpwzlor97p.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459643114009808896/sb_dK2du_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459643114009808896/sb_dK2du_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/605489176/1399176182",
+        "profile_link_color": "286ED6",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Nov 04 22:16:14 +0000 2016",
+        "id": 794664579834015700,
+        "id_str": "794664579834015745",
+        "text": "Let's keep working to keep our economy on a better, stronger course. https://t.co/bV2BVjyj7a",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 794662466848456700,
+              "id_str": "794662466848456704",
+              "indices": [
+                69,
+                92
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+              "url": "https://t.co/bV2BVjyj7a",
+              "display_url": "pic.twitter.com/bV2BVjyj7a",
+              "expanded_url": "https://twitter.com/BarackObama/status/794664579834015745/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1000,
+                  "h": 560,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 381,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1000,
+                  "h": 560,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 794662466848456700,
+              "id_str": "794662466848456704",
+              "indices": [
+                69,
+                92
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+              "url": "https://t.co/bV2BVjyj7a",
+              "display_url": "pic.twitter.com/bV2BVjyj7a",
+              "expanded_url": "https://twitter.com/BarackObama/status/794664579834015745/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1000,
+                  "h": 560,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 381,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1000,
+                  "h": 560,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 813286,
+          "id_str": "813286",
+          "name": "Barack Obama",
+          "screen_name": "BarackObama",
+          "location": "Washington, DC",
+          "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+          "url": "http://t.co/O5Woad92z1",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/O5Woad92z1",
+                  "expanded_url": "http://www.barackobama.com",
+                  "display_url": "barackobama.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 80343155,
+          "friends_count": 632320,
+          "listed_count": 216137,
+          "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+          "favourites_count": 10,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 15430,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": true,
+          "profile_background_color": "77B0DC",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+          "profile_link_color": "2574AD",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "C2E0F6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5994,
+        "favorite_count": 23854,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5994,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:36 +0000 2017",
+      "id": 817423131384148000,
+      "id_str": "817423131384147969",
+      "text": "@Tischindelray @drmattdambrosio Hopefully @BarackObama heads for Africa for a better future. They need him more than we do.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Tischindelray",
+            "name": "Patricia Conlon",
+            "id": 37993527,
+            "id_str": "37993527",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "drmattdambrosio",
+            "name": "Matthew D'Ambrosio™",
+            "id": 233758712,
+            "id_str": "233758712",
+            "indices": [
+              15,
+              31
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              42,
+              54
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 817170894997098500,
+      "in_reply_to_status_id_str": "817170894997098503",
+      "in_reply_to_user_id": 37993527,
+      "in_reply_to_user_id_str": "37993527",
+      "in_reply_to_screen_name": "Tischindelray",
+      "user": {
+        "id": 743328062943617000,
+        "id_str": "743328062943617024",
+        "name": "Donn",
+        "screen_name": "Donn_991",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4,
+        "friends_count": 1,
+        "listed_count": 0,
+        "created_at": "Thu Jun 16 06:23:15 +0000 2016",
+        "favourites_count": 297,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1514,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:36 +0000 2017",
+      "id": 817423131233161200,
+      "id_str": "817423131233161218",
+      "text": "RT @NancySinatra: A record 75 straight months of job growth under Obama https://t.co/9h9yOrxzMM Thank you, Mr. President. @BarackObama",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NancySinatra",
+            "name": "Nancy Sinatra",
+            "id": 50735431,
+            "id_str": "50735431",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              122,
+              134
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9h9yOrxzMM",
+            "expanded_url": "http://tinyurl.com/hcnlvs3",
+            "display_url": "tinyurl.com/hcnlvs3",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 39750808,
+        "id_str": "39750808",
+        "name": "Chande happy Bert✌️",
+        "screen_name": "Chande87",
+        "location": "Florida  ",
+        "description": "All Is Love AdamLambert Once In A Life Time Someone Comes Along (Iconic)The whole reason I am on Twitter To Support him!! don't do drama!! #TeamHappyBert",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1659,
+        "friends_count": 1095,
+        "listed_count": 193,
+        "created_at": "Wed May 13 13:35:13 +0000 2009",
+        "favourites_count": 18413,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 175870,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/164947857/2_rose_woman_70d9ad260c44fb0ead1196dec9.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/164947857/2_rose_woman_70d9ad260c44fb0ead1196dec9.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744559604206440448/roRpMnZB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744559604206440448/roRpMnZB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39750808/1364680755",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jan 06 15:44:21 +0000 2017",
+        "id": 817396392096198700,
+        "id_str": "817396392096198657",
+        "text": "A record 75 straight months of job growth under Obama https://t.co/9h9yOrxzMM Thank you, Mr. President. @BarackObama",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BarackObama",
+              "name": "Barack Obama",
+              "id": 813286,
+              "id_str": "813286",
+              "indices": [
+                104,
+                116
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9h9yOrxzMM",
+              "expanded_url": "http://tinyurl.com/hcnlvs3",
+              "display_url": "tinyurl.com/hcnlvs3",
+              "indices": [
+                54,
+                77
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 50735431,
+          "id_str": "50735431",
+          "name": "Nancy Sinatra",
+          "screen_name": "NancySinatra",
+          "location": "Los Angeles",
+          "description": "Mom, Grandma, Singer, DJ, Actor, Author. NRDC Activist. ACLU, SAG, AFTRA, AGVA #unionmember.  Latest Release: Shifting Gears.",
+          "url": "http://t.co/JmkeFjHSIK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/JmkeFjHSIK",
+                  "expanded_url": "http://www.nancysinatra.com",
+                  "display_url": "nancysinatra.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 118775,
+          "friends_count": 106394,
+          "listed_count": 3309,
+          "created_at": "Thu Jun 25 19:06:10 +0000 2009",
+          "favourites_count": 14,
+          "utc_offset": -28800,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 13935,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "BFAB5B",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/41558169/cherry.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/41558169/cherry.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/445763847/cherry_smiles_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/445763847/cherry_smiles_normal.jpg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "BFAB5B",
+          "profile_text_color": "0E0957",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 130,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 50,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:31 +0000 2017",
+      "id": 817423111981252600,
+      "id_str": "817423111981252609",
+      "text": "RT @NewEra17Michael: Democrap POTUS Commander in Chief @BarackObama and his Community Organized BLM \nhttps://t.co/6LsZrEELw8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NewEra17Michael",
+            "name": "🇺🇸DJT45MyPrez🇺🇸",
+            "id": 4739845481,
+            "id_str": "4739845481",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              55,
+              67
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 817016654274195500,
+            "id_str": "817016654274195457",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/C1agUX2XcAEvKzV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1agUX2XcAEvKzV.jpg",
+            "url": "https://t.co/6LsZrEELw8",
+            "display_url": "pic.twitter.com/6LsZrEELw8",
+            "expanded_url": "https://twitter.com/SnowMaylar/status/817016667872120832/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 1024,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 817016667872120800,
+            "source_status_id_str": "817016667872120832",
+            "source_user_id": 718627800941531100,
+            "source_user_id_str": "718627800941531137"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 817016654274195500,
+            "id_str": "817016654274195457",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/C1agUX2XcAEvKzV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1agUX2XcAEvKzV.jpg",
+            "url": "https://t.co/6LsZrEELw8",
+            "display_url": "pic.twitter.com/6LsZrEELw8",
+            "expanded_url": "https://twitter.com/SnowMaylar/status/817016667872120832/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 1024,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 817016667872120800,
+            "source_status_id_str": "817016667872120832",
+            "source_user_id": 718627800941531100,
+            "source_user_id_str": "718627800941531137"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4452489873,
+        "id_str": "4452489873",
+        "name": "Gagirlforlife",
+        "screen_name": "logistics_uga",
+        "location": "Georgia, USA",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 267,
+        "friends_count": 251,
+        "listed_count": 11,
+        "created_at": "Fri Dec 11 21:42:49 +0000 2015",
+        "favourites_count": 9126,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2240,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/772276381954834432/572CbEMh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/772276381954834432/572CbEMh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4452489873/1457218320",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Jan 05 16:56:32 +0000 2017",
+        "id": 817052170692493300,
+        "id_str": "817052170692493316",
+        "text": "Democrap POTUS Commander in Chief @BarackObama and his Community Organized BLM \nhttps://t.co/6LsZrEELw8",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BarackObama",
+              "name": "Barack Obama",
+              "id": 813286,
+              "id_str": "813286",
+              "indices": [
+                34,
+                46
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 817016654274195500,
+              "id_str": "817016654274195457",
+              "indices": [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/C1agUX2XcAEvKzV.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C1agUX2XcAEvKzV.jpg",
+              "url": "https://t.co/6LsZrEELw8",
+              "display_url": "pic.twitter.com/6LsZrEELw8",
+              "expanded_url": "https://twitter.com/SnowMaylar/status/817016667872120832/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 576,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 576,
+                  "h": 1024,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 817016667872120800,
+              "source_status_id_str": "817016667872120832",
+              "source_user_id": 718627800941531100,
+              "source_user_id_str": "718627800941531137"
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 817016654274195500,
+              "id_str": "817016654274195457",
+              "indices": [
+                80,
+                103
+              ],
+              "media_url": "http://pbs.twimg.com/media/C1agUX2XcAEvKzV.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C1agUX2XcAEvKzV.jpg",
+              "url": "https://t.co/6LsZrEELw8",
+              "display_url": "pic.twitter.com/6LsZrEELw8",
+              "expanded_url": "https://twitter.com/SnowMaylar/status/817016667872120832/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 576,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 576,
+                  "h": 1024,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 817016667872120800,
+              "source_status_id_str": "817016667872120832",
+              "source_user_id": 718627800941531100,
+              "source_user_id_str": "718627800941531137"
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4739845481,
+          "id_str": "4739845481",
+          "name": "🇺🇸DJT45MyPrez🇺🇸",
+          "screen_name": "NewEra17Michael",
+          "location": "Huntsville, AL",
+          "description": "+SavedbyGodsGrace+ AerospaceDesignEngineer@NASA34Years ContinuedEducation10Years NRAlifetimeC&C SuthernBred&Born +TRUMPisAnsweredPrayers+ WAR EAGLE USA1 VETS1 !",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 10048,
+          "friends_count": 8443,
+          "listed_count": 444,
+          "created_at": "Fri Jan 08 01:27:41 +0000 2016",
+          "favourites_count": 125035,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 131713,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/802669617831354372/OhzhrqlD_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/802669617831354372/OhzhrqlD_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4739845481/1483667053",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 62,
+        "favorite_count": 39,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 62,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 06 17:30:28 +0000 2017",
+      "id": 817423100421828600,
+      "id_str": "817423100421828608",
+      "text": "RT @traecrowder: Liberal Redneck - Thanks @BarackObama \n\n(whole video on muh Youtube) https://t.co/h2bJ1WcRIg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "traecrowder",
+            "name": "Trae Crowder",
+            "id": 92896595,
+            "id_str": "92896595",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "BarackObama",
+            "name": "Barack Obama",
+            "id": 813286,
+            "id_str": "813286",
+            "indices": [
+              42,
+              54
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 817135331992551400,
+            "id_str": "817135331992551425",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/817135331992551425/pu/img/mkqVmcCvtRNI2LWY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/817135331992551425/pu/img/mkqVmcCvtRNI2LWY.jpg",
+            "url": "https://t.co/h2bJ1WcRIg",
+            "display_url": "pic.twitter.com/h2bJ1WcRIg",
+            "expanded_url": "https://twitter.com/traecrowder/status/817135996659793922/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 340,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 192,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 848,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 817135996659793900,
+            "source_status_id_str": "817135996659793922",
+            "source_user_id": 92896595,
+            "source_user_id_str": "92896595"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 817135331992551400,
+            "id_str": "817135331992551425",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/817135331992551425/pu/img/mkqVmcCvtRNI2LWY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/817135331992551425/pu/img/mkqVmcCvtRNI2LWY.jpg",
+            "url": "https://t.co/h2bJ1WcRIg",
+            "display_url": "pic.twitter.com/h2bJ1WcRIg",
+            "expanded_url": "https://twitter.com/traecrowder/status/817135996659793922/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 340,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 192,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 848,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 817135996659793900,
+            "source_status_id_str": "817135996659793922",
+            "source_user_id": 92896595,
+            "source_user_id_str": "92896595",
+            "video_info": {
+              "aspect_ratio": [
+                53,
+                30
+              ],
+              "duration_millis": 140023,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/817135331992551425/pu/vid/636x360/ua6G_4hJwxcp0rvi.mp4"
+                },
+                {
+                  "content_type": "application/dash+xml",
+                  "url": "https://video.twimg.com/ext_tw_video/817135331992551425/pu/pl/cQaT_UWURePxsP1a.mpd"
+                },
+                {
+                  "bitrate": 320000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/817135331992551425/pu/vid/318x180/DM7_CIBHXz7XayCP.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/817135331992551425/pu/pl/cQaT_UWURePxsP1a.m3u8"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "id": 92896595,
+                "id_str": "92896595",
+                "name": "Trae Crowder",
+                "screen_name": "traecrowder",
+                "location": "Rocky Top, TN",
+                "description": "Standup comedian, baby-maker/owner, white, etc. The Liberal Redneck",
+                "url": "https://t.co/DwZzqt8Enr",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "url": "https://t.co/DwZzqt8Enr",
+                        "expanded_url": "http://wellREDcomedy.com",
+                        "display_url": "wellREDcomedy.com",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  },
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "protected": false,
+                "followers_count": 29894,
+                "friends_count": 1050,
+                "listed_count": 318,
+                "created_at": "Fri Nov 27 03:49:35 +0000 2009",
+                "favourites_count": 8477,
+                "utc_offset": -18000,
+                "time_zone": "Quito",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 4064,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433610905/Me_BLS.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433610905/Me_BLS.jpg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/745384267358691328/unnaWerq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/745384267358691328/unnaWerq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/92896595/1479499998",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 236084316,
+        "id_str": "236084316",
+        "name": "Thomas Boyers V",
+        "screen_name": "ThomasBoyers",
+        "location": "Tennessee, USA",
+        "description": "Third generation Lawyer fighting for a Constitutional Criminal Justice System. UNVERIFIED by Twitter but located in Tennessee.",
+        "url": "https://t.co/o6CpC3w4rd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/o6CpC3w4rd",
+                "expanded_url": "http://www.boyersatlaw.com",
+                "display_url": "boyersatlaw.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1150,
+        "friends_count": 2573,
+        "listed_count": 34,
+        "created_at": "Sun Jan 09 19:30:04 +0000 2011",
+        "favourites_count": 1935,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5944,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/443095206053695488/6qTbnnuT_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/443095206053695488/6qTbnnuT_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/236084316/1459091640",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Jan 05 22:29:37 +0000 2017",
+        "id": 817135996659793900,
+        "id_str": "817135996659793922",
+        "text": "Liberal Redneck - Thanks @BarackObama \n\n(whole video on muh Youtube) https://t.co/h2bJ1WcRIg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "BarackObama",
+              "name": "Barack Obama",
+              "id": 813286,
+              "id_str": "813286",
+              "indices": [
+                25,
+                37
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 817135331992551400,
+              "id_str": "817135331992551425",
+              "indices": [
+                69,
+                92
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/817135331992551425/pu/img/mkqVmcCvtRNI2LWY.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/817135331992551425/pu/img/mkqVmcCvtRNI2LWY.jpg",
+              "url": "https://t.co/h2bJ1WcRIg",
+              "display_url": "pic.twitter.com/h2bJ1WcRIg",
+              "expanded_url": "https://twitter.com/traecrowder/status/817135996659793922/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 192,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 848,
+                  "h": 480,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 817135331992551400,
+              "id_str": "817135331992551425",
+              "indices": [
+                69,
+                92
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/817135331992551425/pu/img/mkqVmcCvtRNI2LWY.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/817135331992551425/pu/img/mkqVmcCvtRNI2LWY.jpg",
+              "url": "https://t.co/h2bJ1WcRIg",
+              "display_url": "pic.twitter.com/h2bJ1WcRIg",
+              "expanded_url": "https://twitter.com/traecrowder/status/817135996659793922/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 340,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 192,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 848,
+                  "h": 480,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  53,
+                  30
+                ],
+                "duration_millis": 140023,
+                "variants": [
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/817135331992551425/pu/vid/636x360/ua6G_4hJwxcp0rvi.mp4"
+                  },
+                  {
+                    "content_type": "application/dash+xml",
+                    "url": "https://video.twimg.com/ext_tw_video/817135331992551425/pu/pl/cQaT_UWURePxsP1a.mpd"
+                  },
+                  {
+                    "bitrate": 320000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/817135331992551425/pu/vid/318x180/DM7_CIBHXz7XayCP.mp4"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/817135331992551425/pu/pl/cQaT_UWURePxsP1a.m3u8"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 92896595,
+          "id_str": "92896595",
+          "name": "Trae Crowder",
+          "screen_name": "traecrowder",
+          "location": "Rocky Top, TN",
+          "description": "Standup comedian, baby-maker/owner, white, etc. The Liberal Redneck",
+          "url": "https://t.co/DwZzqt8Enr",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/DwZzqt8Enr",
+                  "expanded_url": "http://wellREDcomedy.com",
+                  "display_url": "wellREDcomedy.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 29894,
+          "friends_count": 1050,
+          "listed_count": 318,
+          "created_at": "Fri Nov 27 03:49:35 +0000 2009",
+          "favourites_count": 8477,
+          "utc_offset": -18000,
+          "time_zone": "Quito",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 4064,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433610905/Me_BLS.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433610905/Me_BLS.jpg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/745384267358691328/unnaWerq_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/745384267358691328/unnaWerq_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/92896595/1479499998",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 274,
+        "favorite_count": 539,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 274,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.128,
+    "max_id": 817423275013898200,
+    "max_id_str": "817423275013898241",
+    "next_results": "?max_id=817423100421828607&q=%40BarackObama&include_entities=1",
+    "query": "%40BarackObama",
+    "refresh_url": "?since_id=817423275013898241&q=%40BarackObama&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
